@@ -1,0 +1,6 @@
+I choose to send the location of an object (coordinates) to a subscriber using a publisher (emisor) /draw_circle and /pose_subscriber as a receiver.
+The idea is that for every x,y position determined in the subscriber, the receiver will print the exact x,y positions of this object.
+
+This is specifically good for robots because with this, we can see the real-time position of it as it moves throughout a space, helping us to keep 
+a precise location of the robot in case human checking is not available.
+ 
